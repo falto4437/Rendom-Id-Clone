@@ -118,7 +118,8 @@ logo ="""
 [-] VERSION   2.0.0 (V2)
 [-] AUTHOR    ABU-RAIHAN
 [-] GITHUB    FALTO-4437
-[-] TEAM      BBH-HACKEBB╰──────────•◈•───────────────────╯  
+[-] TEAM      BBH-HACKEBB
+╰──────────•◈•───────────────────╯  
 '\33[1;97mTURN on & off (ARPLANE MODE) before use   
 \033[1;97m==============================================================="""
 
